@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work.
+Adding some more ext to start web project section
 
 ## Introduction
 
