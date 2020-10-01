@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work.
 Adding some more ext to start web project section
 Adding a line for rebasing example.
+Adding one more line to startweb
 
 ## Introduction
 
@@ -11,6 +12,7 @@ This is a example is to show different parts of the Git repository and various c
 ## Purpose
 
 Sample website with plenty of files for demos file
+
 
 ## Deployment
 
