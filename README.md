@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work.
 Adding some more ext to start web project section
 Adding a line for rebasing example.
 Adding one more line to startweb
-then more changes from myfeature branch too.
+Updating for emergency fix after stashing
 
 ## Introduction
 
