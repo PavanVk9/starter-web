@@ -1,8 +1,6 @@
 <!DOCTYPE html>
-<!--
   Copyright 2020 Git.Training 
   Some silly changes frim master from master branch
--->
 <head>
 	<title>A Silly website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
